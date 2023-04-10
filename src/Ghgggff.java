@@ -1,4 +1,4 @@
-public class ghgggf {
+public class Ghgggff {
     public static void main(String[] args) {
         int invoiceAmount = 1000;
 
